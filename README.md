@@ -128,16 +128,8 @@ https://github.com/debutdeveloper/admin_panel
 - In this cloned directory `npm install` to install all dependencies.
 - You will have to set the ip address of your api in the configuration file of the admin panel.
 - First you are required to start the api-sdk, then you can start the admin pannel using `npm start` or `nodemon`.
-<hr>
 
-# Using AssetChain
-1. <b>Admin Panel</b> can be accessed by this url [assetchain.debutinfotech.com](http://assetchain.debutinfotech.com)
- 
-2. <b>Mobile app</b> to access AssetChain can be downloaded from the [Google Play store](https://play.google.com/store/apps/details?id=com.flutter.debutassets) and the [Apple App store](https://itunes.apple.com/us/app/id1391618573)
 
-<hr>
-
-<!--
 # AssetChain FAQs
 Do you have questions about why something in AssetChain is the way it is? Or how to do something? Check out the [FAQ]().
 <hr>
@@ -156,6 +148,4 @@ If you have any ideas on how to improve the project, please reach out! Specifica
 
 <!-- Use the [GitHub Issues]() section to communicate any improvements/bugs and pain points! -->
 
-=======
 # AssetChain
-AssetChain
